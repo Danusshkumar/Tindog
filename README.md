@@ -1,5 +1,3 @@
-Here is a possible README.md file for your tindog project with more than 300 words and details:
-
 # Tindog
 
 Tindog is a website that helps you find the perfect match for your dog. It is a fun and engaging project that I created as part of **The Complete 2022 Web Development Bootcamp** by **Angela Yu**. This project helped me learn and practice web development skills such as HTML, CSS, and Bootstrap.
@@ -23,3 +21,7 @@ Then, open the index.html file in your browser. You can also use a live server e
 ## Contribution
 
 If you want to contribute to this project, you can fork this repository and make a pull request. You can also open an issue if you find any bugs or have any suggestions. I would appreciate any feedback or improvement ideas.
+
+## Deployment 
+
+  You can see the live website here https://danusshkumar.github.io/Tindog
